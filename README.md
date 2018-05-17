@@ -1,5 +1,5 @@
 # ASL Translator ![CI build ver](https://img.shields.io/badge/ALST-v1.5-yellow.svg) ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![CI backend](https://img.shields.io/badge/tensorflow-v1.7.0-blue.svg) ![CI neuralnet](https://img.shields.io/badge/keras-v2.1.5-blue.svg) ![CI sklearn](https://img.shields.io/badge/scikit%20learn-0.19.1-blue.svg) ![CI photoshopper](https://img.shields.io/badge/pillow-5.1.x-blue.svg) ![CI IDE](https://img.shields.io/badge/jupyter%20notebook-5.0.0-blue.svg)
+![CI backend](https://img.shields.io/badge/tensorflow-v1.7.0-blue.svg) ![CI neuralnet](https://img.shields.io/badge/keras-v2.1.5-blue.svg) ![CI sklearn](https://img.shields.io/badge/scikit%20learn-0.19.1-blue.svg) ![CI photoshopper](https://img.shields.io/badge/pillow-5.1.x-blue.svg)
 
 
 Version 1 of **American Sign Language Translator** is a simple photo to text translator that will be groundwork for a larger project of turning images of human hands into words and phrases in real time.
