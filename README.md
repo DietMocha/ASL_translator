@@ -94,7 +94,7 @@ Current stage of project is able to identify the target with 92% accuracy traine
 
 ![Confusion Matrix](https://github.com/DietMocha/ASL_translator/tree/master/pics/cm1.png "This was the Confusion Matrix")
 
-![ROC score](https://github.com/DietMocha/ASL_translator/tree/master/pics/roc1.png)
+![ROC score](https://github.com/DietMocha/ASL_translator/tree/master/pics/roc1.jpeg)
 
 ## Upcoming Hazards
 * **Orientations concern me**. To balance my original classes of A, B, C, V, pointer, and high-five I looked into rotating random images until my dataset was balanced. However, this would not be future proof and expandable sign language depends on orientation for information and many phrases or words can seem similar; especially when focusing on the top 21 most known languages.
