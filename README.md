@@ -99,7 +99,7 @@ Current stage of project is able to identify the target with 92% accuracy traine
 <br>
 <br/>
 <p align="center">
-  <img src='https://github.com/marcotav/machine-learning-regression-models/blob/master/retail/images/liquor.jpeg' width="200">
+  <img src='https://github.com/DietMocha/ASL_translator/tree/master/pics/cm1.jpeg' width="200">
 </p>
 <br>
 
