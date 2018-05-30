@@ -97,6 +97,11 @@ Current stage of project is able to identify the target with 92% accuracy traine
   <img src='https://github.com/DietMocha/ASL_translator/tree/master/pics/cm1.jpeg'>
 </p>
 <br>
+<br/>
+<p align="center">
+  <img src='https://github.com/marcotav/machine-learning-regression-models/blob/master/retail/images/liquor.jpeg' width="200">
+</p>
+<br>
 
 ## Upcoming Hazards
 * **Orientations concern me**. To balance my original classes of A, B, C, V, pointer, and high-five I looked into rotating random images until my dataset was balanced. However, this would not be future proof and expandable sign language depends on orientation for information and many phrases or words can seem similar; especially when focusing on the top 21 most known languages.
