@@ -92,7 +92,7 @@ I will be using an orientation method to balance in the future. However, there w
 ## Results
 Current stage of project is able to identify the target with 92% accuracy trained on a dataset of about 5000 images; with 500 images of the target. It is able to correctly identify images that are not the target with 99% accuracy. The baseline for this project was at 89%. While I am satisfied with my first results. I am going to work on finding or making a better dataset and look into how similar signs can be to use code that orientates an image multiple times.
 
-![Confusion Matrix](https://github.com/DietMocha/ASL_translator/tree/master/pics/cm1.png "This was the Confusion Matrix")
+![Confusion Matrix](https://github.com/DietMocha/ASL_translator/tree/master/pics/cm1.jpeg)
 
 ![ROC score](https://github.com/DietMocha/ASL_translator/tree/master/pics/roc1.jpeg)
 
