@@ -92,9 +92,12 @@ I will be using an orientation method to balance in the future. However, there w
 ## Results
 Current stage of project is able to identify the target with 92% accuracy trained on a dataset of about 5000 images; with 500 images of the target. It is able to correctly identify images that are not the target with 99% accuracy. The baseline for this project was at 89%. While I am satisfied with my first results. I am going to work on finding or making a better dataset and look into how similar signs can be to use code that orientates an image multiple times.
 
-![alt text](https://github.com/DietMocha/ASL_translator/tree/master/pics/cm1.png "This was the Confusion Matrix")
-
-![alt text](https://github.com/DietMocha/ASL_translator/tree/master/pics/roc1.png)
+<br/>
+<p>
+  <img src='https://github.com/DietMocha/ASL_translator/tree/master/pics/cm1.png'>
+  <img src='https://github.com/DietMocha/ASL_translator/tree/master/pics/roc1.png'>
+</p>
+<br>
 
 ## Upcoming Hazards
 * **Orientations concern me**. To balance my original classes of A, B, C, V, pointer, and high-five I looked into rotating random images until my dataset was balanced. However, this would not be future proof and expandable sign language depends on orientation for information and many phrases or words can seem similar; especially when focusing on the top 21 most known languages.
