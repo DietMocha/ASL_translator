@@ -94,7 +94,7 @@ Current stage of project is able to identify the target with 92% accuracy traine
 
 <br/>
 <p>
-  <img src='https://github.com/DietMocha/ASL_translator/tree/master/pics/cm1.png'>
+  <img src='https://github.com/DietMocha/ASL_translator/tree/master/pics/cm1.jpg'>
   <img src='https://github.com/DietMocha/ASL_translator/tree/master/pics/roc1.png'>
 </p>
 <br>
